@@ -2,3 +2,4 @@ Módulo 1: https://github.com/Gus-IA/serpentine-fun https://github.com/Gus-IA/ai
 Deberes módulo 1: https://github.com/Gus-IA/ai-dev-tools-zoomcamp01-homework
 
 Módulo 2: https://github.com/Gus-IA/snake-social
+Deberes módulo 2: https://github.com/Gus-IA/ai-dev-tools-zoomcamp02-homework
